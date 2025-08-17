@@ -2,7 +2,7 @@
   "name": "CypherX",
   "description": "CypherX, your friendly assistant!",
   "logo": "https://i.ibb.co/nqsRcKDB/Xploader4.jpg",
-  "keywords": [],
+  "keywords": [,],
   "repository": "https://github.com/Dark-Xploit/CypherX",
   "stack": "container",
   "addons": [
@@ -15,7 +15,7 @@
   },
 "env": {
   "SESSION_ID": {
-    "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
+    "description": "CYPHER-X:~UEsDBBQAAAgIAHZTEVuwIJ4eUAQAAHEHAAAKAAAAY3JlZHMuanNvbpVUXbOiOBT8L3nVGgFB1KpbtaAggh8oIMLWPiBEDN8mQcQp**sW3rkz92F39i5PIUn16XO6O99BUSICDdiC6XdQYXQLKOyWtK0gmAK5Pp8hBn0QBTQAUzBeRbnp5n6Twm0lKYzi3G253KoJneH94ML4XkZiWagURnoDzz6o6lOGwt8A1kexqZymIIkqpLJVSgNfcxiYqlxvO1muRiqEtsXdH1K+ewPPDjFAGBWxUl1gDnGQGbA1A4S*Rr9WIastHKW3jSfM4qqs9EF+tdfu*OaZ8gZ6zePIVFSm2jD8Gn3l5Izcduz58nB01FXOX0jplfcflTUWB0JPw0L62NJmoC*Cd*oExQWMlhEsKKLtl+cuyQud35Ei9THc2fNCFNbeQjliFw3NnQqvdrseJnv1rKu7rxG3DTcaMMlIYNYalzKXgSRFYy8e7bEnX3meMTO2SULCZq33mbiJP7yS*p+5u1scnbAoOKdT4pQO2*aGbJx7q52vJG5eRYtWKOdeuL8uvK*RL3tEuffiiLOylSiY8oEpUcOFjgMl04Rs4Rr5as5sjG3ziX5Aa*w7ljaENhPdtxe+ko8Wn*XcjTOJWqqvhFoslMTtRSqMZW8zYTbGJsnszUpsyu3C01tbUR9app91QzqMbSmUNPlxyMbrNN69vTpKYbuMwJR99gGGMSIUBxSVxWuP7YMgulkwxJC+pgvYiYTpQ9HLNiIZn8SZtxT0WhWa0Ljqs+po7Setb6kyyytvoA8qXIaQEBhpiNASt2tISBBDAqZ**tUHBbzTd926akO2D84IE+oUdZWVQfQh6sdhEIZlXVCrLcJZt4AYTJlf25BSVMSkG2NdBDi8oBucXQJKwPQcZAT+bBBiGIEpxTX8GdpZGXVzN3yLFT1VBn2Qv*RAEZgCTuBZluWEiTjhpuPJH+Rb08EGVfWtgBT0Qfa6xjKMyPAiw3HsmBvz3c3u4PmTYQcYQRqgjIApmC0TvTgrqqIX0YU4i8VsHUuzWAK*Ovpwxvvok1AbD6QC1U6jNqrretdNNIcWtSQqHtEaRcdtvk9mqqHwb*8A0rV3Cpx6aTtx2oyOK2*esLq*TBaJHt9tLdRVWBv88dAjd1Y69Up6KXcNWaKV35i+nM6N+P7IykafuLIcl4yoNImJnFlnoz6I4A2F8HOxh9PLkH3AGIr25IoFRR0Oeyub8fPRRjQ8wbsotyLwG9fbXJu5xJB048oLUyNabqzHY8nx6XnizubMDVqMFDDVhdvH8btnX5nJfrxV6GWnTqvu94zgK*pF0Cn439q9E+8sxjz7nzB+PCb*EkjZG8oDs9F5nK3lUD5kuZEcd8MUO*EKsnyyLA6PKvWai3XZgufzrz6osoCeS5yDKQiKCJcoAn2Ay7rz7LI4l78pNpOcpfKj8ywgVPqVAxvlkNAgr8CUFQWB50b8iHm*ZeKy0gJy6Zxp8BeN70zdSlVl0YB+xApI3bc1RuD5N1BLAQIUAxQAAAgIAHZTEVuwIJ4eUAQAAHEHAAAKAAAAAAAAAAAAAACkgQAAAABjcmVkcy5qc29uUEsFBgAAAAABAAEAOAAAAHgEAAAAAA==",
     "value": "",
     "required": false
   }
