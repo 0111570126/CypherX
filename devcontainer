@@ -1,0 +1,26 @@
+{
+  "name": "cyperX Node.js Dev Container",
+  "image": "mcr.microsoft.com/devcontainers/node:20",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {},
+    "ghcr.io/devcontainers/features/github-cli:1": {}
+  },
+  "postCreateCommand": "npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-vscode.vscode-typescript-next"
+      ]
+    }
+  },
+  "ports": [
+    {
+      "port": 3000,
+      "label": "Web App",
+      "onAutoForward": "notify"
+    }
+  ],
+  "remoteUser": "vscode"
+}
