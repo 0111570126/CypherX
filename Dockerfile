@@ -10,7 +10,7 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install dependencies
-RUN npm install && npm cache clean --force
+RUN cd ./npm && node ./scripts/resetdeps.js
 
 # Copy application code
 COPY . .
